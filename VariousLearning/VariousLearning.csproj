@@ -101,6 +101,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Index - Copy.html" />
     <Content Include="Index.html" />
   </ItemGroup>
   <PropertyGroup>
